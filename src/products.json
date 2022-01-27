@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "Travel Bag",
+      "price": 1999,
+      "quantity": 10,
+      "image": "./Myimages/13.jpg"
+    },
+    {
+      "id": 2,
+      "pname": "Cap",
+      "price": 122,
+      "quantity": 7,
+      "image": "./Myimages/14.jpg"
+    },
+    {
+      "id": 3,
+      "pname": "Shoes",
+      "price": 831,
+      "quantity": 2,
+      "image": "./Myimages/15.jpg"
+    },
+    {
+      "id": 4,
+      "pname": "Glasses",
+      "price": 199,
+      "quantity": 4,
+      "image": "./Myimages/16.jpg"
+    },
+    {
+      "id": 5,
+      "pname": "Helemt",
+      "price": 899,
+      "quantity": 0,
+      "image": "./Myimages/17.jpg"
+    },
+    {
+      "id": 6,
+      "pname": "Suit",
+      "price": 4999,
+      "quantity": 4,
+      "image": "./Myimages/18.jpg"
+    },
+    {
+      "id": 7,
+      "pname": "Tent",
+      "price": 8900,
+      "quantity": 1,
+      "image": "./Myimages/19.jpg"
+    },
+    {
+      "id": 8,
+      "pname": "Jacket",
+      "price": 9999,
+      "quantity": 4,
+      "image": "./Myimages/20.jpg"
+    },
+    {
+      "id": 9,
+      "pname": "Shoes",
+      "price": 499,
+      "quantity": 5,
+      "image": "./Myimages/21.jpg"
+    },
+    {
+      "id": 10,
+      "pname": "Bag Pack",
+      "price": 6223,
+      "quantity": 4,
+      "image": "./Myimages/22.jpg"
+    },
+    {
+      "id": 11,
+      "pname": "Red Bag",
+      "price": 4223,
+      "quantity": 2,
+      "image": "./Myimages/23.jpg"
+    },
+    {
+      "id": 12,
+      "pname": "Tourist Pack",
+      "price": 8223,
+      "quantity": 4,
+      "image": "./Myimages/24.jpg"
+    }
+  ]
+}
